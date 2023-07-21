@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/sagarkhan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarkhan04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sagar-khan-537383258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-khan-537383258" height="30" width="40" /></a>
+<a href="https://fb.com/hridaykhan.sagor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridaykhan.sagor" height="30" width="40" /></a>
 <a href="https://instagram.com/hriday.khan_sagor01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hriday.khan_sagor01" height="30" width="40" /></a>
 </p>
 
