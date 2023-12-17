@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagarkhan04" target="blank"><img src="https://img.shields.io/twitter/follow/sagarkhan04?logo=twitter&style=for-the-badge" alt="sagarkhan04" /></a> </p>
 
-- 🔭 I’m currently working on [ProblemFighter](https://www.problemfighter.com/) and [BanglaFighter](https://www.problemfighter.com/)
+- 🔭 I’m currently working on [ProblemFighter](https://www.problemfighter.com/) and [BanglaFighter](https://banglafighter.com/)
 
 - 🌱 I’m currently learning **HTML,CSS and JS**
 
