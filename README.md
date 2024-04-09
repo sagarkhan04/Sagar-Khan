@@ -1,6 +1,6 @@
-
-<h1 align="center"><em>Hi 👋, I'm Sagar Khan</em></h1>
-<h3 align="center">A Front-End Developer from Bangladesh</h3>
+<em>
+<h1 align="center">Hi There 👋, I'm Sagar Khan</h1>
+<h3 align="center">A Front-End Developer | Quality Assurance (QA) from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/sagarkhan04/adoc_yml_file/main/sagarkhan04.png">
 <!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
@@ -11,7 +11,8 @@
 
 - 🔭 I’m currently working on [ProblemFighter](https://www.problemfighter.com/) and [BanglaFighter](https://banglafighter.com/)
 
-- 🌱 I’m currently learning **HTML,CSS and JS**
+<!-- - 🌱 I’m currently learning **HTML,CSS and JS** -->
+- 🌱 Hard Skill  **HTML, CSS, JavaScrip, Quality assurance (QA) and Google Docs & Sheet**
 
 - ⚡ Fun fact **I am Funny**
 
@@ -30,8 +31,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarkhan04&show_icons=true&locale=en&layout=compact" alt="sagarkhan04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarkhan04&show_icons=true&locale=en" alt="sagarkhan04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarkhan04&" alt="sagarkhan04" /></p>
+</em>
